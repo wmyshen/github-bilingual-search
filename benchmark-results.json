@@ -1,0 +1,2596 @@
+{
+  "date": "2026-11-15T04:28:37.850Z",
+  "note": "预选关键词命中仅为候选，不等于人工语义评价。",
+  "records": [
+    {
+      "chinese": "密码管理器",
+      "english": "password manager",
+      "expected": [
+        "bitwarden",
+        "keepass",
+        "passbolt"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "k8gege/PasswordDic",
+            "description": "2011-2019年Top100弱口令密码字典 Top1000密码字典 服务器SSH/VPS密码字典 后台管理密码字典 数据库密码字典  子域名字典",
+            "url": "https://github.com/k8gege/PasswordDic"
+          },
+          {
+            "name": "uTools-Labs/utools-upassword",
+            "description": "uTools 插件 - 密码管理器",
+            "url": "https://github.com/uTools-Labs/utools-upassword"
+          },
+          {
+            "name": "kenmick/FlowerPassword",
+            "description": "🌸花密，不一样的密码管理器",
+            "url": "https://github.com/kenmick/FlowerPassword"
+          },
+          {
+            "name": "yh4922/lockpass",
+            "description": "password manager(密码管理器）",
+            "url": "https://github.com/yh4922/lockpass"
+          },
+          {
+            "name": "valley-owner/pwdManage",
+            "description": "基于python,pyside6的密码管理器",
+            "url": "https://github.com/valley-owner/pwdManage"
+          },
+          {
+            "name": "nerkeler/account",
+            "description": "本地密码管理器",
+            "url": "https://github.com/nerkeler/account"
+          },
+          {
+            "name": "in3102/upassword",
+            "description": "uTools 插件「密码管理器」",
+            "url": "https://github.com/in3102/upassword"
+          },
+          {
+            "name": "h2so0o4/Admin_Intruder",
+            "description": "路由器管理员密码爆破",
+            "url": "https://github.com/h2so0o4/Admin_Intruder"
+          },
+          {
+            "name": "futurepw/Remember",
+            "description": "密码管理器",
+            "url": "https://github.com/futurepw/Remember"
+          },
+          {
+            "name": "ilikeeu/spassword",
+            "description": "密码管理器 Pro 是一个基于 Cloudflare Workers 的现代化密码管理解决方案，提供安全的密码存储、智能自动填充、云备份同步等功能。spassword",
+            "url": "https://github.com/ilikeeu/spassword"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "apple/password-manager-resources",
+            "description": "A place for creators and users of password managers to collaborate on resources to make password management better.",
+            "url": "https://github.com/apple/password-manager-resources"
+          },
+          {
+            "name": "PhilippC/keepass2android",
+            "description": "Password manager app for Android",
+            "url": "https://github.com/PhilippC/keepass2android"
+          },
+          {
+            "name": "keeweb/keeweb",
+            "description": "Free cross-platform password manager compatible with KeePass",
+            "url": "https://github.com/keeweb/keeweb"
+          },
+          {
+            "name": "nuxsmin/sysPass",
+            "description": "Systems Password Manager",
+            "url": "https://github.com/nuxsmin/sysPass"
+          },
+          {
+            "name": "lesspass/lesspass",
+            "description": ":key: stateless open source password manager",
+            "url": "https://github.com/lesspass/lesspass"
+          },
+          {
+            "name": "bitwarden/android",
+            "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
+            "url": "https://github.com/bitwarden/android"
+          },
+          {
+            "name": "pwsafe/pwsafe",
+            "description": "Password Safe - popular secure and convenient password manager",
+            "url": "https://github.com/pwsafe/pwsafe"
+          },
+          {
+            "name": "clipperz/password-manager",
+            "description": "Clipperz is an online vault and password manager that knows nothing about you and your data.  Everything you submit is locally encrypted by your browser before being uploaded to Clipperz. The encryption key is a passphrase known only to you and Clipperz could never access your data. Clipperz is built upon open proven and trusted encryption algorithms.",
+            "url": "https://github.com/clipperz/password-manager"
+          },
+          {
+            "name": "gopasspw/gopass",
+            "description": "The slightly more awesome standard unix password manager for teams",
+            "url": "https://github.com/gopasspw/gopass"
+          },
+          {
+            "name": "cloudflare/gokey",
+            "description": "A simple vaultless password manager in Go",
+            "url": "https://github.com/cloudflare/gokey"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "PhilippC/keepass2android",
+        "bitwarden/android"
+      ]
+    },
+    {
+      "chinese": "截图工具",
+      "english": "screenshot tool",
+      "expected": [
+        "flameshot",
+        "sharex",
+        "ksnip",
+        "shottr"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "kejiacheng/kscreenshot",
+            "description": "web截图工具  前端截图 screenshot",
+            "url": "https://github.com/kejiacheng/kscreenshot"
+          },
+          {
+            "name": "xiangwangfeng/M80ImageMerger",
+            "description": "截图自动拼接小工具",
+            "url": "https://github.com/xiangwangfeng/M80ImageMerger"
+          },
+          {
+            "name": "tylearymf/SETUNA2",
+            "description": "A best screenshot small tool (support high dpi screenshots) 一款好用的截图小工具（支持高分屏截图）",
+            "url": "https://github.com/tylearymf/SETUNA2"
+          },
+          {
+            "name": "tomfriwel/welCropper",
+            "description": "welCropper 微信小程序截图工具",
+            "url": "https://github.com/tomfriwel/welCropper"
+          },
+          {
+            "name": "2829632740/Pegline",
+            "description": "截图小工具",
+            "url": "https://github.com/2829632740/Pegline"
+          },
+          {
+            "name": "node-modules/webcamera",
+            "description": "网页截图工具 (by phantomjs)",
+            "url": "https://github.com/node-modules/webcamera"
+          },
+          {
+            "name": "wwe1056416465/Snipaste-1.16.2-x64",
+            "description": "截图工具",
+            "url": "https://github.com/wwe1056416465/Snipaste-1.16.2-x64"
+          },
+          {
+            "name": "insoxin/QQScreenShot",
+            "description": "电脑QQ截图工具提取版,支持文字提取、图片识别、截长图、qq录屏。默认截图文件名为ScreenShot日期",
+            "url": "https://github.com/insoxin/QQScreenShot"
+          },
+          {
+            "name": "bd-dxg/airsnip",
+            "description": "AirSnip 轻截：1 MB 的 Windows 截图标注工具（Rust，纯 CPU 渲染，待机 0% CPU）",
+            "url": "https://github.com/bd-dxg/airsnip"
+          },
+          {
+            "name": "TransparentLC/WechatMomentScreenshot",
+            "description": "朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）",
+            "url": "https://github.com/TransparentLC/WechatMomentScreenshot"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "bbc/wraith",
+            "description": "Wraith — A responsive screenshot comparison tool",
+            "url": "https://github.com/bbc/wraith"
+          },
+          {
+            "name": "ckaiser/Lightscreen",
+            "description": "Screenshot tool.",
+            "url": "https://github.com/ckaiser/Lightscreen"
+          },
+          {
+            "name": "AnyListen/tools-ocr",
+            "description": "树洞 OCR 文字识别（一款跨平台的 OCR 小工具）",
+            "url": "https://github.com/AnyListen/tools-ocr"
+          },
+          {
+            "name": "ianzhao/textshot",
+            "description": "Python tool for grabbing text via screenshot",
+            "url": "https://github.com/ianzhao/textshot"
+          },
+          {
+            "name": "ksnip/ksnip",
+            "description": "ksnip the cross-platform screenshot and annotation tool",
+            "url": "https://github.com/ksnip/ksnip"
+          },
+          {
+            "name": "dylanaraps/neofetch",
+            "description": "🖼️  A command-line system information tool written in bash 3.2+",
+            "url": "https://github.com/dylanaraps/neofetch"
+          },
+          {
+            "name": "shutter-project/shutter",
+            "description": "Screenshot tool for Linux",
+            "url": "https://github.com/shutter-project/shutter"
+          },
+          {
+            "name": "microweber-dev/screen",
+            "description": "Website screenshot tool based on PHP and PhantomJS",
+            "url": "https://github.com/microweber-dev/screen"
+          },
+          {
+            "name": "easysoft/zenshot",
+            "description": "A screenshot tool",
+            "url": "https://github.com/easysoft/zenshot"
+          },
+          {
+            "name": "elementary/screenshot",
+            "description": "Screenshot tool designed for elementary OS",
+            "url": "https://github.com/elementary/screenshot"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "bbc/wraith",
+        "ckaiser/Lightscreen",
+        "AnyListen/tools-ocr",
+        "ianzhao/textshot",
+        "ksnip/ksnip",
+        "dylanaraps/neofetch",
+        "shutter-project/shutter",
+        "microweber-dev/screen",
+        "easysoft/zenshot",
+        "elementary/screenshot"
+      ],
+      "previousEnglish": "screenshot",
+      "previousExpanded": {
+        "items": [
+          {
+            "name": "abi/screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code"
+          },
+          {
+            "name": "niklasvh/html2canvas",
+            "description": "Screenshots with JavaScript",
+            "url": "https://github.com/niklasvh/html2canvas"
+          },
+          {
+            "name": "kbinani/screenshot",
+            "description": "Go library to capture desktop to image",
+            "url": "https://github.com/kbinani/screenshot"
+          },
+          {
+            "name": "emilwallner/Screenshot-to-code",
+            "description": "A neural network that transforms a design mock-up into a static website.",
+            "url": "https://github.com/emilwallner/Screenshot-to-code"
+          },
+          {
+            "name": "sindresorhus/pageres",
+            "description": "Capture website screenshots",
+            "url": "https://github.com/sindresorhus/pageres"
+          },
+          {
+            "name": "SachinGanesh/screenshot",
+            "description": "Flutter Screenshot Library",
+            "url": "https://github.com/SachinGanesh/screenshot"
+          },
+          {
+            "name": "wanttobeno/Screenshot",
+            "description": "仿QQ截图，C++实现的截图软件Demo",
+            "url": "https://github.com/wanttobeno/Screenshot"
+          },
+          {
+            "name": "ParthJadhav/app-store-screenshots",
+            "description": "end to end app store screenshot creation using AI",
+            "url": "https://github.com/ParthJadhav/app-store-screenshots"
+          },
+          {
+            "name": "TransparentLC/WechatMomentScreenshot",
+            "description": "朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）",
+            "url": "https://github.com/TransparentLC/WechatMomentScreenshot"
+          },
+          {
+            "name": "akhilkammila/leetcode-screenshotter",
+            "description": "screenshots leetcode editorials and problems",
+            "url": "https://github.com/akhilkammila/leetcode-screenshotter"
+          }
+        ],
+        "retried": true
+      }
+    },
+    {
+      "chinese": "笔记软件",
+      "english": "note taking",
+      "expected": [
+        "joplin",
+        "logseq",
+        "trilium",
+        "notesnook"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "aquarkgn/Software-Designer",
+            "description": "软考中级:软件设计师学习笔记",
+            "url": "https://github.com/aquarkgn/Software-Designer"
+          },
+          {
+            "name": "SpriCoder/SpriCoder-Notes",
+            "description": "南京大学软件学院课程相关笔记",
+            "url": "https://github.com/SpriCoder/SpriCoder-Notes"
+          },
+          {
+            "name": "PeterGuy326/senior-software-architect-review",
+            "description": "高级软件架构师（软考）复习笔记与资料",
+            "url": "https://github.com/PeterGuy326/senior-software-architect-review"
+          },
+          {
+            "name": "WeiWenda/effect-note",
+            "description": "大纲笔记软件",
+            "url": "https://github.com/WeiWenda/effect-note"
+          },
+          {
+            "name": "flysafely/Software-Design-Engineer-Note",
+            "description": "软件设计师学习笔记",
+            "url": "https://github.com/flysafely/Software-Design-Engineer-Note"
+          },
+          {
+            "name": "MountPOTATO/Software-Engineering-Notes",
+            "description": "同济大学软件学院软件工程课堂笔记",
+            "url": "https://github.com/MountPOTATO/Software-Engineering-Notes"
+          },
+          {
+            "name": "cxloge/MaiziTest",
+            "description": "软件测试-软件测试视频教程 麦子学院 学习笔记",
+            "url": "https://github.com/cxloge/MaiziTest"
+          },
+          {
+            "name": "wx-chevalier/System-Architecture-Notes",
+            "description": "📚软件业务架构设计系列笔记",
+            "url": "https://github.com/wx-chevalier/System-Architecture-Notes"
+          },
+          {
+            "name": "oldwinter/knowledge-garden",
+            "description": "我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成",
+            "url": "https://github.com/oldwinter/knowledge-garden"
+          },
+          {
+            "name": "lyming99/wenznote",
+            "description": "一款由 flutter 开发的笔记软件，支持电脑端和手机端。",
+            "url": "https://github.com/lyming99/wenznote"
+          }
+        ],
+        "retried": true
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "federicoiosue/Omni-Notes",
+            "description": "Open source note-taking application for Android",
+            "url": "https://github.com/federicoiosue/Omni-Notes"
+          },
+          {
+            "name": "tehtbl/awesome-note-taking",
+            "description": "A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.",
+            "url": "https://github.com/tehtbl/awesome-note-taking"
+          },
+          {
+            "name": "notable/notable",
+            "description": "The Markdown-based note-taking app that doesn't suck.",
+            "url": "https://github.com/notable/notable"
+          },
+          {
+            "name": "streetwriters/notesnook",
+            "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+            "url": "https://github.com/streetwriters/notesnook"
+          },
+          {
+            "name": "notea-org/notea",
+            "description": "📒 Self hosted note taking app stored on S3",
+            "url": "https://github.com/notea-org/notea"
+          },
+          {
+            "name": "glushchenko/fsnotes",
+            "description": "Fast Markdown note-taking app for Mac and iPhone",
+            "url": "https://github.com/glushchenko/fsnotes"
+          },
+          {
+            "name": "GitJournal/GitJournal",
+            "description": "Mobile first Note Taking integrated with Git",
+            "url": "https://github.com/GitJournal/GitJournal"
+          },
+          {
+            "name": "laurent22/joplin",
+            "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+            "url": "https://github.com/laurent22/joplin"
+          },
+          {
+            "name": "zk-org/zk",
+            "description": "A plain text note-taking assistant",
+            "url": "https://github.com/zk-org/zk"
+          },
+          {
+            "name": "nuttyartist/notes",
+            "description": "Fast and beautiful note-taking app written in C++. Write down your thoughts.",
+            "url": "https://github.com/nuttyartist/notes"
+          }
+        ],
+        "retried": true
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "streetwriters/notesnook",
+        "laurent22/joplin"
+      ]
+    },
+    {
+      "chinese": "文件同步",
+      "english": "file sync",
+      "expected": [
+        "syncthing",
+        "rclone",
+        "freefilesync"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "ZhiqingLi/Sdk_Refresh",
+            "description": "SDK文件同步",
+            "url": "https://github.com/ZhiqingLi/Sdk_Refresh"
+          },
+          {
+            "name": "qiniu/QSunSync",
+            "description": "七牛云文件同步图形化工具－Windows版本",
+            "url": "https://github.com/qiniu/QSunSync"
+          },
+          {
+            "name": "zhaoolee/ChromeAppHeroes",
+            "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新",
+            "url": "https://github.com/zhaoolee/ChromeAppHeroes"
+          },
+          {
+            "name": "vinvcn/mattpocock-skills-zh-CN",
+            "description": "Matt Pocock skills 的简体中文本地化：人工审核每一次更新，定期同步上游，支持 Claude、Codex 和 DSH 插件。",
+            "url": "https://github.com/vinvcn/mattpocock-skills-zh-CN"
+          },
+          {
+            "name": "wukongdaily/RunFilesBuilder",
+            "description": "这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt用的run自解压包",
+            "url": "https://github.com/wukongdaily/RunFilesBuilder"
+          },
+          {
+            "name": "ShouChenICU/FastSend",
+            "description": "FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。",
+            "url": "https://github.com/ShouChenICU/FastSend"
+          },
+          {
+            "name": "rentiansheng/devSync",
+            "description": "代码同步、文件同步、目录同步及脚本执行工具",
+            "url": "https://github.com/rentiansheng/devSync"
+          },
+          {
+            "name": "amoblin/gitman",
+            "description": "GitMan：基于Git的网盘式文件同步工具",
+            "url": "https://github.com/amoblin/gitman"
+          },
+          {
+            "name": "dennis-zheng/cwRsync",
+            "description": "cwRsync 文件同步工具",
+            "url": "https://github.com/dennis-zheng/cwRsync"
+          },
+          {
+            "name": "doraemonkeys/WindSend",
+            "description": "Quickly and securely sync clipboard, transfer files and directories between devices. 快速安全的同步剪切板，传输文件或文件夹",
+            "url": "https://github.com/doraemonkeys/WindSend"
+          }
+        ],
+        "retried": true
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "syncthing/syncthing",
+            "description": "Open Source Continuous File Synchronization",
+            "url": "https://github.com/syncthing/syncthing"
+          },
+          {
+            "name": "polius/FileSync",
+            "description": "Send files from one device to many in real-time.",
+            "url": "https://github.com/polius/FileSync"
+          },
+          {
+            "name": "hkneptune/FreeFileSync",
+            "description": "A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/forum/). Last free version for commercial use: https://github.com/hkneptune/FreeFileSync/releases/tag/v12.5",
+            "url": "https://github.com/hkneptune/FreeFileSync"
+          },
+          {
+            "name": "wp-sync-db/wp-sync-db-media-files",
+            "description": "Sync media libraries between WordPress installations - an addon for wp-sync-db",
+            "url": "https://github.com/wp-sync-db/wp-sync-db-media-files"
+          },
+          {
+            "name": "BetaHuhn/repo-file-sync-action",
+            "description": "🔄 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories.",
+            "url": "https://github.com/BetaHuhn/repo-file-sync-action"
+          },
+          {
+            "name": "haiwen/seafile",
+            "description": "Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views",
+            "url": "https://github.com/haiwen/seafile"
+          },
+          {
+            "name": "Dailin521/codex-provider-sync",
+            "description": "Synchronize Codex session provider metadata across rollout files and SQLite state.",
+            "url": "https://github.com/Dailin521/codex-provider-sync"
+          },
+          {
+            "name": "kovetskiy/mark",
+            "description": "Sync your markdown files with Confluence pages.",
+            "url": "https://github.com/kovetskiy/mark"
+          },
+          {
+            "name": "git-ftp/git-ftp",
+            "description": "Uses Git to upload only changed files to FTP servers.",
+            "url": "https://github.com/git-ftp/git-ftp"
+          },
+          {
+            "name": "derekantrican/GAS-ICS-Sync",
+            "description": "A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed",
+            "url": "https://github.com/derekantrican/GAS-ICS-Sync"
+          }
+        ],
+        "retried": true
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "syncthing/syncthing",
+        "hkneptune/FreeFileSync"
+      ]
+    },
+    {
+      "chinese": "文件管理器",
+      "english": "file manager",
+      "expected": [
+        "files-community",
+        "spacedrive",
+        "yazi",
+        "ranger"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "MiCode/FileExplorer",
+            "description": "MIUI文件管理器社区开源版（Community edition of MIUI File Explorer)",
+            "url": "https://github.com/MiCode/FileExplorer"
+          },
+          {
+            "name": "yangsmith/FileExplorer",
+            "description": "android file explorer android文件管理器",
+            "url": "https://github.com/yangsmith/FileExplorer"
+          },
+          {
+            "name": "ling-drag0n/CloudPaste",
+            "description": "🌩️ Serverless 自托管的文件管理与文本分享工具/网盘，支持多存储聚合管理和WebDAV 服务挂载。兼容 S3、WebDAV、OneDrive、Google Drive、Telegram、HF、GitHub 等。内置   Markdown 编辑器、30+文件格式预览。支持 Cloudflare Workers 或 Docker 部署。",
+            "url": "https://github.com/ling-drag0n/CloudPaste"
+          },
+          {
+            "name": "jimmgreen/pulse",
+            "description": "为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。  |   QQ Group  1043250162",
+            "url": "https://github.com/jimmgreen/pulse"
+          },
+          {
+            "name": "zhuxb711/RX-Explorer",
+            "description": "一款优雅的UWP文件管理器 | An elegant UWP Explorer",
+            "url": "https://github.com/zhuxb711/RX-Explorer"
+          },
+          {
+            "name": "zyj1609wz/FileManager",
+            "description": "Android 文件管理器",
+            "url": "https://github.com/zyj1609wz/FileManager"
+          },
+          {
+            "name": "shaonianzhentan/ha_file_explorer",
+            "description": "在HomeAssistant里使用的文件管理器",
+            "url": "https://github.com/shaonianzhentan/ha_file_explorer"
+          },
+          {
+            "name": "lzj500/filebox",
+            "description": "单文件管理器",
+            "url": "https://github.com/lzj500/filebox"
+          },
+          {
+            "name": "aliyun/oss-browser",
+            "description": "OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。",
+            "url": "https://github.com/aliyun/oss-browser"
+          },
+          {
+            "name": "gitlipeng/AndroidFileManage",
+            "description": "文件管理器",
+            "url": "https://github.com/gitlipeng/AndroidFileManage"
+          }
+        ],
+        "retried": true
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "files-community/Files",
+            "description": "A modern file manager that helps users organize their files and folders.",
+            "url": "https://github.com/files-community/Files"
+          },
+          {
+            "name": "TeamAmaze/AmazeFileManager",
+            "description": "Material design file manager for Android",
+            "url": "https://github.com/TeamAmaze/AmazeFileManager"
+          },
+          {
+            "name": "zhanghai/MaterialFiles",
+            "description": "Material Design file manager for Android",
+            "url": "https://github.com/zhanghai/MaterialFiles"
+          },
+          {
+            "name": "filegator/filegator",
+            "description": "Powerful Multi-User File Manager",
+            "url": "https://github.com/filegator/filegator"
+          },
+          {
+            "name": "aleksey-hoffman/sigma-file-manager",
+            "description": "\"Sigma File Manager\" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.",
+            "url": "https://github.com/aleksey-hoffman/sigma-file-manager"
+          },
+          {
+            "name": "alexusmai/laravel-file-manager",
+            "description": "File manager for Laravel",
+            "url": "https://github.com/alexusmai/laravel-file-manager"
+          },
+          {
+            "name": "SimpleMobileTools/Simple-File-Manager",
+            "description": "Easy app for managing your files without ads, respecting your privacy & security",
+            "url": "https://github.com/SimpleMobileTools/Simple-File-Manager"
+          },
+          {
+            "name": "joni2back/angular-filemanager",
+            "description": "JavaScript File Manager Material Design Folder Explorer Navigator Browser Manager in AngularJS with CSS3 Responsive (with FTP in PHP / Java / Node)",
+            "url": "https://github.com/joni2back/angular-filemanager"
+          },
+          {
+            "name": "filecxx/FileCentipede",
+            "description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, mpd, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",
+            "url": "https://github.com/filecxx/FileCentipede"
+          },
+          {
+            "name": "openintents/filemanager",
+            "description": "OpenIntents file manager",
+            "url": "https://github.com/openintents/filemanager"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "files-community/Files"
+      ]
+    },
+    {
+      "chinese": "下载工具",
+      "english": "download manager",
+      "expected": [
+        "aria2",
+        "motrix",
+        "persepolis",
+        "filecentipede"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "proxyee-down-org/proxyee-down",
+            "description": "http下载工具，基于http代理，支持多连接分块下载",
+            "url": "https://github.com/proxyee-down-org/proxyee-down"
+          },
+          {
+            "name": "JoeanAmier/TikTokDownloader",
+            "description": "抖音 / TikTok 平台作品下载/数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader"
+          },
+          {
+            "name": "nobiyou/wx_channel",
+            "description": "微信视频号下载工具",
+            "url": "https://github.com/nobiyou/wx_channel"
+          },
+          {
+            "name": "bughandler/cnki-downloader",
+            "description": "知网(CNKI)文献下载工具",
+            "url": "https://github.com/bughandler/cnki-downloader"
+          },
+          {
+            "name": "Accelerider/BaiduPanDownloadWinform",
+            "description": "百度网盘不限速下载工具",
+            "url": "https://github.com/Accelerider/BaiduPanDownloadWinform"
+          },
+          {
+            "name": "59799517/simple_sq_music_plus",
+            "description": "NAS音乐下载工具",
+            "url": "https://github.com/59799517/simple_sq_music_plus"
+          },
+          {
+            "name": "xiaoguyu/wechatDownload",
+            "description": "微信公号文章下载工具",
+            "url": "https://github.com/xiaoguyu/wechatDownload"
+          },
+          {
+            "name": "deweizhu/bookget",
+            "description": "bookget 数字古籍图书下载工具。",
+            "url": "https://github.com/deweizhu/bookget"
+          },
+          {
+            "name": "qiye45/wechatVideoDownload",
+            "description": "微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载",
+            "url": "https://github.com/qiye45/wechatVideoDownload"
+          },
+          {
+            "name": "592767809/video_server",
+            "description": "视频拦截下载工具",
+            "url": "https://github.com/592767809/video_server"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "agalwood/Motrix",
+            "description": "A full-featured download manager.",
+            "url": "https://github.com/agalwood/Motrix"
+          },
+          {
+            "name": "amir1376/ab-download-manager",
+            "description": "A Download Manager that speeds up your downloads",
+            "url": "https://github.com/amir1376/ab-download-manager"
+          },
+          {
+            "name": "AnInsomniacy/rayburst",
+            "description": "Redefining the open-source download manager",
+            "url": "https://github.com/AnInsomniacy/rayburst"
+          },
+          {
+            "name": "dyang886/Game-Cheats-Manager",
+            "description": "Easily download and manage single-player game cheats for your convenience",
+            "url": "https://github.com/dyang886/Game-Cheats-Manager"
+          },
+          {
+            "name": "persepolisdm/persepolis",
+            "description": "Persepolis is a download manager written in Python.",
+            "url": "https://github.com/persepolisdm/persepolis"
+          },
+          {
+            "name": "majidgolshadi/Android-Download-Manager-Pro",
+            "description": "Android/Java download manager library help you to download files in parallel mechanism in some chunks.",
+            "url": "https://github.com/majidgolshadi/Android-Download-Manager-Pro"
+          },
+          {
+            "name": "mzeeshanid/MZDownloadManager",
+            "description": "This download manager uses NSURLSession api to download files. It can download multiple files at a time. It can download large files if app is in background. It can resume downloads if app was quit.",
+            "url": "https://github.com/mzeeshanid/MZDownloadManager"
+          },
+          {
+            "name": "smanikandan14/ThinDownloadManager",
+            "description": "To download files and to avoid using DOWNLOAD_WITHOUT_NOTIFICATION permission if you are using Android's DownloadManager in your apps.",
+            "url": "https://github.com/smanikandan14/ThinDownloadManager"
+          },
+          {
+            "name": "TachibanaGeneralLaboratories/download-navi",
+            "description": "Free and  Open Source software download manager",
+            "url": "https://github.com/TachibanaGeneralLaboratories/download-navi"
+          },
+          {
+            "name": "c0de0ff/DownloadManager",
+            "description": "Download Manger for chrome web browser",
+            "url": "https://github.com/c0de0ff/DownloadManager"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "agalwood/Motrix",
+        "persepolisdm/persepolis"
+      ]
+    },
+    {
+      "chinese": "视频下载",
+      "english": "video downloader",
+      "expected": [
+        "yt-dlp",
+        "youtube-dl",
+        "lux",
+        "cobalt"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "ltaoo/wx_channels_download",
+            "description": "微信视频号下载器",
+            "url": "https://github.com/ltaoo/wx_channels_download"
+          },
+          {
+            "name": "qiye45/wechatVideoDownload",
+            "description": "微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载",
+            "url": "https://github.com/qiye45/wechatVideoDownload"
+          },
+          {
+            "name": "justjavac/github-actions-youtube-dl",
+            "description": "使用 GitHub Actions 下载 YouTube 视频",
+            "url": "https://github.com/justjavac/github-actions-youtube-dl"
+          },
+          {
+            "name": "Henryhaohao/Bilibili_video_download",
+            "description": ":rainbow:Bilibili_video_download-B站视频下载",
+            "url": "https://github.com/Henryhaohao/Bilibili_video_download"
+          },
+          {
+            "name": "nobiyou/wx_channel",
+            "description": "微信视频号下载工具",
+            "url": "https://github.com/nobiyou/wx_channel"
+          },
+          {
+            "name": "lecepin/WeChatVideoDownloader",
+            "description": "超方便的微信视频号下载器",
+            "url": "https://github.com/lecepin/WeChatVideoDownloader"
+          },
+          {
+            "name": "tencentyun/TRTCSDK",
+            "description": "腾讯云TRTC音视频服务，国内下载镜像：",
+            "url": "https://github.com/tencentyun/TRTCSDK"
+          },
+          {
+            "name": "yaobiao131/downkyicore",
+            "description": "哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+            "url": "https://github.com/yaobiao131/downkyicore"
+          },
+          {
+            "name": "JimmyLiang-lzm/biliDownloader_GUI",
+            "description": "B站视频下载程序，BiliBili视频下载器，支持下载B站视频、交互\\互动视频，支持下载区域限制视频资源。Bili Downloader GUI Program for Stable.😊",
+            "url": "https://github.com/JimmyLiang-lzm/biliDownloader_GUI"
+          },
+          {
+            "name": "592767809/video_server",
+            "description": "视频拦截下载工具",
+            "url": "https://github.com/592767809/video_server"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "yt-dlp/yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "url": "https://github.com/yt-dlp/yt-dlp"
+          },
+          {
+            "name": "Tyrrrz/YoutubeDownloader",
+            "description": "Downloads videos and playlists from YouTube",
+            "url": "https://github.com/Tyrrrz/YoutubeDownloader"
+          },
+          {
+            "name": "fent/node-ytdl-core",
+            "description": "YouTube video downloader in javascript.",
+            "url": "https://github.com/fent/node-ytdl-core"
+          },
+          {
+            "name": "lecepin/WeChatVideoDownloader",
+            "description": "超方便的微信视频号下载器",
+            "url": "https://github.com/lecepin/WeChatVideoDownloader"
+          },
+          {
+            "name": "aandrew-me/ytDownloader",
+            "description": "Desktop app to download audio/video from hundreds of sites",
+            "url": "https://github.com/aandrew-me/ytDownloader"
+          },
+          {
+            "name": "JunkFood02/Seal",
+            "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+            "url": "https://github.com/JunkFood02/Seal"
+          },
+          {
+            "name": "EvilCult/Video-Downloader",
+            "description": "下载youku,letv,sohu,tudou,bilibili,acfun,iqiyi等网站分段视频文件，提供mac&win独立App。",
+            "url": "https://github.com/EvilCult/Video-Downloader"
+          },
+          {
+            "name": "subhra74/xdm",
+            "description": "Fast, reliable download accelerator and video downloader since 2013",
+            "url": "https://github.com/subhra74/xdm"
+          },
+          {
+            "name": "JeffMony/VideoDownloader",
+            "description": "支持下载队列，支持M3U8视频、MP4视频等，支持M3U8合并为MP4视频。",
+            "url": "https://github.com/JeffMony/VideoDownloader"
+          },
+          {
+            "name": "lanyeeee/bilibili-video-downloader",
+            "description": "哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库",
+            "url": "https://github.com/lanyeeee/bilibili-video-downloader"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "yt-dlp/yt-dlp"
+      ]
+    },
+    {
+      "chinese": "音乐播放器",
+      "english": "music player",
+      "expected": [
+        "music",
+        "player",
+        "mopidy",
+        "navidrome"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "wood3n/biu",
+            "description": "Bilibili音乐播放器",
+            "url": "https://github.com/wood3n/biu"
+          },
+          {
+            "name": "aa112901/remusic",
+            "description": "仿网易云音乐 安卓版，netease  android，音乐播放器 在线 下载",
+            "url": "https://github.com/aa112901/remusic"
+          },
+          {
+            "name": "caiyonglong/MusicLake",
+            "description": "MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe",
+            "url": "https://github.com/caiyonglong/MusicLake"
+          },
+          {
+            "name": "maotoumao/MusicFree",
+            "description": "插件化、定制化、无广告的免费音乐播放器",
+            "url": "https://github.com/maotoumao/MusicFree"
+          },
+          {
+            "name": "algerkong/AlgerMusicPlayer",
+            "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
+            "url": "https://github.com/algerkong/AlgerMusicPlayer"
+          },
+          {
+            "name": "reusser/VueMusic-PC",
+            "description": ":pineapple:音乐播放器",
+            "url": "https://github.com/reusser/VueMusic-PC"
+          },
+          {
+            "name": "akudamatata/Solara",
+            "description": "一个极简风格的基于免费API的音乐播放器",
+            "url": "https://github.com/akudamatata/Solara"
+          },
+          {
+            "name": "maomao1996/Vue-mmPlayer",
+            "description": "🎵 基于 Vue 的在线音乐播放器 Online music player",
+            "url": "https://github.com/maomao1996/Vue-mmPlayer"
+          },
+          {
+            "name": "maotoumao/MusicFreeDesktop",
+            "description": "插件化、定制化、无广告的免费音乐播放器",
+            "url": "https://github.com/maotoumao/MusicFreeDesktop"
+          },
+          {
+            "name": "mengkunsoft/MKOnlineMusicPlayer",
+            "description": "⛔【停止维护】一个在线音乐播放器（仅 UI，无功能）",
+            "url": "https://github.com/mengkunsoft/MKOnlineMusicPlayer"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "algerkong/AlgerMusicPlayer",
+            "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
+            "url": "https://github.com/algerkong/AlgerMusicPlayer"
+          },
+          {
+            "name": "naman14/Timber",
+            "description": "Material Design Music Player",
+            "url": "https://github.com/naman14/Timber"
+          },
+          {
+            "name": "zhongyang219/MusicPlayer2",
+            "description": "MusicPlayer2是一款功能强大的本地音乐播放软件，旨在为用户提供最佳的本地音乐播放体验。它支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能，支持高度自定义的界面布局，支持多种播放内核（BASS和FFMpeg）。播放器支持大部分常见的音频格式。",
+            "url": "https://github.com/zhongyang219/MusicPlayer2"
+          },
+          {
+            "name": "AsmSafone/MusicPlayer",
+            "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls. This is Also The Source Code of The UserBot Which is Playing Music in @S1-BOTS Support Group ❤️",
+            "url": "https://github.com/AsmSafone/MusicPlayer"
+          },
+          {
+            "name": "nukeop/nuclear",
+            "description": "Streaming music player that finds free music for you",
+            "url": "https://github.com/nukeop/nuclear"
+          },
+          {
+            "name": "RetroMusicPlayer/RetroMusicPlayer",
+            "description": "Best Material You Design music player for Android",
+            "url": "https://github.com/RetroMusicPlayer/RetroMusicPlayer"
+          },
+          {
+            "name": "andremion/Music-Player",
+            "description": "From UI Proposal to Code :notes::arrow_forward:",
+            "url": "https://github.com/andremion/Music-Player"
+          },
+          {
+            "name": "pear-devs/pear-desktop",
+            "description": "Pear 🍐 is extension for music player",
+            "url": "https://github.com/pear-devs/pear-desktop"
+          },
+          {
+            "name": "subinps/MusicPlayer",
+            "description": "Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.",
+            "url": "https://github.com/subinps/MusicPlayer"
+          },
+          {
+            "name": "ryanhoo/StylishMusicPlayer",
+            "description": "A stylish music player for android device 16+",
+            "url": "https://github.com/ryanhoo/StylishMusicPlayer"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "zhongyang219/MusicPlayer2",
+        "AsmSafone/MusicPlayer",
+        "RetroMusicPlayer/RetroMusicPlayer",
+        "andremion/Music-Player",
+        "subinps/MusicPlayer",
+        "ryanhoo/StylishMusicPlayer"
+      ]
+    },
+    {
+      "chinese": "视频播放器",
+      "english": "video player",
+      "expected": [
+        "mpv",
+        "vlc",
+        "video",
+        "player"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "Doikki/DKVideoPlayer",
+            "description": "Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜",
+            "url": "https://github.com/Doikki/DKVideoPlayer"
+          },
+          {
+            "name": "jwzhangjie/JwZhangJie",
+            "description": "视频播放器",
+            "url": "https://github.com/jwzhangjie/JwZhangJie"
+          },
+          {
+            "name": "yangchong211/YCVideoPlayer",
+            "description": "🔥🔥🔥 基础封装视频播放器player，可以在ExoPlayer、MediaPlayer原生MediaPlayer可以自由切换内核；该播放器整体架构：播放器内核(自由切换) + 视频播放器 + 边播边缓存 + 高度定制播放器UI视图层。支持视频简单播放，列表播放，仿抖音滑动播放，自动切换播放，使用案例丰富，拓展性强。",
+            "url": "https://github.com/yangchong211/YCVideoPlayer"
+          },
+          {
+            "name": "Hiram-Wong/zyfun",
+            "description": "跨平台桌面端视频资源播放器,免费高颜值.",
+            "url": "https://github.com/Hiram-Wong/zyfun"
+          },
+          {
+            "name": "yundiantech/VideoPlayer",
+            "description": "Qt+ffmpeg实现的视频播放器",
+            "url": "https://github.com/yundiantech/VideoPlayer"
+          },
+          {
+            "name": "chiruom/DanmuPlayer",
+            "description": "Html5弹幕视频播放器插件",
+            "url": "https://github.com/chiruom/DanmuPlayer"
+          },
+          {
+            "name": "qiushi123/VideoDemoQcl",
+            "description": "安卓视频播放器 一行代码快速实现在线视频播放，Android视频播放，AndroidMP3播放，安卓视频播放一行代码搞定，仿今日头条 Android视频播放器",
+            "url": "https://github.com/qiushi123/VideoDemoQcl"
+          },
+          {
+            "name": "itisyang/playerdemo",
+            "description": "一个视频播放器，开源版 potplayer ，用于总结播放器开发技术。",
+            "url": "https://github.com/itisyang/playerdemo"
+          },
+          {
+            "name": "JmoVxia/CLPlayer",
+            "description": "自定义视频播放器",
+            "url": "https://github.com/JmoVxia/CLPlayer"
+          },
+          {
+            "name": "c10342/player",
+            "description": "electron+libvlc音视频播放器",
+            "url": "https://github.com/c10342/player"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "lipangit/JiaoZiVideoPlayer",
+            "description": "MediaPlayer exoplayer ijkplayer ffmpeg",
+            "url": "https://github.com/lipangit/JiaoZiVideoPlayer"
+          },
+          {
+            "name": "videojs/video.js",
+            "description": "Video.js v10 - open source media player framework for HTML and React.",
+            "url": "https://github.com/videojs/video.js"
+          },
+          {
+            "name": "surmon-china/videojs-player",
+            "description": "@videojs player component for @vuejs(3) and React.",
+            "url": "https://github.com/surmon-china/videojs-player"
+          },
+          {
+            "name": "danylovolokh/VideoPlayerManager",
+            "description": "This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it.",
+            "url": "https://github.com/danylovolokh/VideoPlayerManager"
+          },
+          {
+            "name": "iina/iina",
+            "description": "The modern video player for macOS.",
+            "url": "https://github.com/iina/iina"
+          },
+          {
+            "name": "vidstack/player",
+            "description": "Deprecated in favour of Video.js 10; security fixes only until January 2028. UI components and hooks for building video and audio players on the web.",
+            "url": "https://github.com/vidstack/player"
+          },
+          {
+            "name": "bilibili/ijkplayer",
+            "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+            "url": "https://github.com/bilibili/ijkplayer"
+          },
+          {
+            "name": "0xced/XCDYouTubeKit",
+            "description": "YouTube video player for iOS, tvOS and macOS",
+            "url": "https://github.com/0xced/XCDYouTubeKit"
+          },
+          {
+            "name": "moneytoo/Player",
+            "description": "▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer",
+            "url": "https://github.com/moneytoo/Player"
+          },
+          {
+            "name": "jplayer/jPlayer",
+            "description": "jPlayer : HTML5 Audio & Video for jQuery",
+            "url": "https://github.com/jplayer/jPlayer"
+          }
+        ],
+        "retried": true
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "lipangit/JiaoZiVideoPlayer",
+        "videojs/video.js",
+        "surmon-china/videojs-player",
+        "danylovolokh/VideoPlayerManager",
+        "vidstack/player",
+        "bilibili/ijkplayer",
+        "moneytoo/Player",
+        "jplayer/jPlayer"
+      ]
+    },
+    {
+      "chinese": "图片压缩",
+      "english": "image compression",
+      "expected": [
+        "squoosh",
+        "imageoptim",
+        "compress",
+        "image"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "nanchen2251/CompressHelper",
+            "description": ":fire: 压缩文件，压缩图片，压缩Bitmap，Compress, CompressImage, CompressFile, CompressBitmap：https://github.com/nanchen2251/AiYaCompressHelper",
+            "url": "https://github.com/nanchen2251/CompressHelper"
+          },
+          {
+            "name": "Sunzxyong/Tiny",
+            "description": "an image compression framework.（一个高保真、高压缩比的图片压缩框架）",
+            "url": "https://github.com/Sunzxyong/Tiny"
+          },
+          {
+            "name": "CommanderXL/imgResize",
+            "description": "移动端H5图片压缩",
+            "url": "https://github.com/CommanderXL/imgResize"
+          },
+          {
+            "name": "pangxiaobin/image-matting",
+            "description": "AI抠图、格式转换、图片压缩、AI证件照",
+            "url": "https://github.com/pangxiaobin/image-matting"
+          },
+          {
+            "name": "crazycodeboy/TakePhoto",
+            "description": "一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库",
+            "url": "https://github.com/crazycodeboy/TakePhoto"
+          },
+          {
+            "name": "jeanboydev/Android-BitherCompress",
+            "description": ":camera:Android图片压缩解决方案。",
+            "url": "https://github.com/jeanboydev/Android-BitherCompress"
+          },
+          {
+            "name": "lexluthors/CompressTools-Android",
+            "description": "安卓图片压缩，尽可能保证图片质量，清晰度的压缩。",
+            "url": "https://github.com/lexluthors/CompressTools-Android"
+          },
+          {
+            "name": "soaic/LibjpegCompress",
+            "description": "libjpeg图片压缩",
+            "url": "https://github.com/soaic/LibjpegCompress"
+          },
+          {
+            "name": "focusbe/tinyImage",
+            "description": "一款图片压缩工具",
+            "url": "https://github.com/focusbe/tinyImage"
+          },
+          {
+            "name": "syanbo/react-native-syan-image-picker",
+            "description": "React-Native 多图片选择 支持裁剪 压缩",
+            "url": "https://github.com/syanbo/react-native-syan-image-picker"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "zetbaitsu/Compressor",
+            "description": "An android image compression library.",
+            "url": "https://github.com/zetbaitsu/Compressor"
+          },
+          {
+            "name": "Donaldcwl/browser-image-compression",
+            "description": "Image compression in web browser",
+            "url": "https://github.com/Donaldcwl/browser-image-compression"
+          },
+          {
+            "name": "ivpusic/react-native-image-crop-picker",
+            "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
+            "url": "https://github.com/ivpusic/react-native-image-crop-picker"
+          },
+          {
+            "name": "phoboslab/qoi",
+            "description": "The “Quite OK Image Format” for fast, lossless image compression",
+            "url": "https://github.com/phoboslab/qoi"
+          },
+          {
+            "name": "iamaaditya/image-compression-cnn",
+            "description": "Semantic JPEG image compression using deep convolutional neural network (CNN) ",
+            "url": "https://github.com/iamaaditya/image-compression-cnn"
+          },
+          {
+            "name": "ephemeridis/icer_compression",
+            "description": "Progressive, error tolerant, wavelet-based image compression algorithm",
+            "url": "https://github.com/ephemeridis/icer_compression"
+          },
+          {
+            "name": "Justin-Tan/generative-compression",
+            "description": "TensorFlow Implementation of Generative Adversarial Networks for Extreme Learned Image Compression",
+            "url": "https://github.com/Justin-Tan/generative-compression"
+          },
+          {
+            "name": "Justin-Tan/high-fidelity-generative-compression",
+            "description": "Pytorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression",
+            "url": "https://github.com/Justin-Tan/high-fidelity-generative-compression"
+          },
+          {
+            "name": "addyosmani/squish",
+            "description": "Squish - Batch Browser-based Image Compression",
+            "url": "https://github.com/addyosmani/squish"
+          },
+          {
+            "name": "Lymphatus/caesium-image-compressor",
+            "description": "Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.",
+            "url": "https://github.com/Lymphatus/caesium-image-compressor"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "zetbaitsu/Compressor",
+        "Donaldcwl/browser-image-compression",
+        "ivpusic/react-native-image-crop-picker",
+        "iamaaditya/image-compression-cnn",
+        "ephemeridis/icer_compression",
+        "Justin-Tan/generative-compression",
+        "Justin-Tan/high-fidelity-generative-compression",
+        "Lymphatus/caesium-image-compressor"
+      ]
+    },
+    {
+      "chinese": "录屏工具",
+      "english": "screen recorder",
+      "expected": [
+        "obs",
+        "screen",
+        "record",
+        "capture"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "lihaoyun6/QuickRecorder",
+            "description": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
+            "url": "https://github.com/lihaoyun6/QuickRecorder"
+          },
+          {
+            "name": "icloudza/caplo",
+            "description": "macOS 屏幕录制工具",
+            "url": "https://github.com/icloudza/caplo"
+          },
+          {
+            "name": "yangjinming1062/RecordWin",
+            "description": "录屏、录摄像头工具",
+            "url": "https://github.com/yangjinming1062/RecordWin"
+          },
+          {
+            "name": "SplashedWhite/douyin-recorder",
+            "description": "抖音直播录屏工具",
+            "url": "https://github.com/SplashedWhite/douyin-recorder"
+          },
+          {
+            "name": "xiaoyanLG/Qt_Gif_Creator",
+            "description": "基于Qt的屏幕gif录制工具！",
+            "url": "https://github.com/xiaoyanLG/Qt_Gif_Creator"
+          },
+          {
+            "name": "yuxino/Kiri",
+            "description": "截图、录屏和文字识别工具，支持 macOS、Windows、Linux。Screenshots, screen recording, and OCR for macOS, Windows, and Linux.",
+            "url": "https://github.com/yuxino/Kiri"
+          },
+          {
+            "name": "ouyangzhaoxing/rec_lite",
+            "description": "轻量便携的屏幕录制工具。(Lightweight and portable screen recording tool.) -- Windows11自带的录制已经较为完善，该工具已经没维护的必要。",
+            "url": "https://github.com/ouyangzhaoxing/rec_lite"
+          },
+          {
+            "name": "SlimeNull/EvRepair",
+            "description": "EV 录屏修复工具",
+            "url": "https://github.com/SlimeNull/EvRepair"
+          },
+          {
+            "name": "insoxin/QQScreenShot",
+            "description": "电脑QQ截图工具提取版,支持文字提取、图片识别、截长图、qq录屏。默认截图文件名为ScreenShot日期",
+            "url": "https://github.com/insoxin/QQScreenShot"
+          },
+          {
+            "name": "makebanana/WeChat-Mini-App-utils",
+            "description": "小程序， 常用工具封装，登录、文件上传、ajax、录音、canvas模拟一键截屏...",
+            "url": "https://github.com/makebanana/WeChat-Mini-App-utils"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "NickeManarin/ScreenToGif",
+            "description": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+            "url": "https://github.com/NickeManarin/ScreenToGif"
+          },
+          {
+            "name": "alyssaxuu/screenity",
+            "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+            "url": "https://github.com/alyssaxuu/screenity"
+          },
+          {
+            "name": "yrom/ScreenRecorder",
+            "description": "Implement screen capture without root on Android 5.0+ by using MediaProjectionManager, VirtualDisplay, AudioRecord, MediaCodec and MediaMuxer APIs",
+            "url": "https://github.com/yrom/ScreenRecorder"
+          },
+          {
+            "name": "wulkano/Kap",
+            "description": "An open-source screen recorder built with web technology",
+            "url": "https://github.com/wulkano/Kap"
+          },
+          {
+            "name": "myrao/ScreenRecorder",
+            "description": "A demo of Android screen recorder, no root but SDK version should more than Android 5.0 API 21.",
+            "url": "https://github.com/myrao/ScreenRecorder"
+          },
+          {
+            "name": "MaartenBaert/ssr",
+            "description": "SimpleScreenRecorder, a screen recorder for Linux",
+            "url": "https://github.com/MaartenBaert/ssr"
+          },
+          {
+            "name": "glt/ScreenRecorder",
+            "description": "Android 5.0+ 屏幕录制",
+            "url": "https://github.com/glt/ScreenRecorder"
+          },
+          {
+            "name": "rdp/screen-capture-recorder-to-video-windows-free",
+            "description": "a free open source  windows \"screen capture\" device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio)",
+            "url": "https://github.com/rdp/screen-capture-recorder-to-video-windows-free"
+          },
+          {
+            "name": "sskodje/ScreenRecorderLib",
+            "description": "A .NET library for screen recording in Windows, using native Microsoft Media Foundation for realtime encoding to h264 video or PNG images.",
+            "url": "https://github.com/sskodje/ScreenRecorderLib"
+          },
+          {
+            "name": "lihaoyun6/QuickRecorder",
+            "description": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
+            "url": "https://github.com/lihaoyun6/QuickRecorder"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "NickeManarin/ScreenToGif",
+        "alyssaxuu/screenity",
+        "yrom/ScreenRecorder",
+        "myrao/ScreenRecorder",
+        "glt/ScreenRecorder",
+        "rdp/screen-capture-recorder-to-video-windows-free",
+        "sskodje/ScreenRecorderLib"
+      ]
+    },
+    {
+      "chinese": "剪贴板管理",
+      "english": "clipboard manager",
+      "expected": [
+        "copyq",
+        "clipboard",
+        "ditto",
+        "maccy"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "EcoPasteHub/EcoPaste",
+            "description": "🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool",
+            "url": "https://github.com/EcoPasteHub/EcoPaste"
+          },
+          {
+            "name": "snsogbl/clip-save",
+            "description": "剪存-剪贴板历史管理工具",
+            "url": "https://github.com/snsogbl/clip-save"
+          },
+          {
+            "name": "Jeric-X/SyncClipboard",
+            "description": "跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool",
+            "url": "https://github.com/Jeric-X/SyncClipboard"
+          },
+          {
+            "name": "jimuzhe/tiez-clipboard",
+            "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows.",
+            "url": "https://github.com/jimuzhe/tiez-clipboard"
+          },
+          {
+            "name": "qiu7824/zsclip",
+            "description": "面向 系统ui 的轻量级 Rust 剪贴板管理器",
+            "url": "https://github.com/qiu7824/zsclip"
+          },
+          {
+            "name": "ChurchTao/Lanaya",
+            "description": "Simple to use clipboard manager! 全键盘操作的剪贴板管理工具.",
+            "url": "https://github.com/ChurchTao/Lanaya"
+          },
+          {
+            "name": "Ruszero01/clippi",
+            "description": "轻量化剪贴板管理工具，使用 Rust + GPUI 构建 | Lightweight clipboard manager built with Rust and GPUI.",
+            "url": "https://github.com/Ruszero01/clippi"
+          },
+          {
+            "name": "mlgm66/Kayoko",
+            "description": "功能丰富的 iOS 剪贴板管理器。",
+            "url": "https://github.com/mlgm66/Kayoko"
+          },
+          {
+            "name": "3899/EcoPaste-Pro",
+            "description": "🎉跨平台剪贴板管理工具，基于开源项目EcoPaste二次开发的增强版，旨在提供比原版功能更丰富、更易用的剪贴板管理体验。",
+            "url": "https://github.com/3899/EcoPaste-Pro"
+          },
+          {
+            "name": "ZJM6658/PasteControl",
+            "description": "一款轻量级的Mac端剪贴板管理应用",
+            "url": "https://github.com/ZJM6658/PasteControl"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "p0deje/Maccy",
+            "description": "Lightweight clipboard manager for macOS",
+            "url": "https://github.com/p0deje/Maccy"
+          },
+          {
+            "name": "hluk/CopyQ",
+            "description": "Clipboard manager with advanced features",
+            "url": "https://github.com/hluk/CopyQ"
+          },
+          {
+            "name": "Slackadays/Clipboard",
+            "description": "😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager",
+            "url": "https://github.com/Slackadays/Clipboard"
+          },
+          {
+            "name": "ZiuChen/ClipboardManager",
+            "description": "📋 A Powerful clipboard management tool",
+            "url": "https://github.com/ZiuChen/ClipboardManager"
+          },
+          {
+            "name": "TermiT/Flycut",
+            "description": "Clean and simple clipboard manager for developers",
+            "url": "https://github.com/TermiT/Flycut"
+          },
+          {
+            "name": "Tudmotu/gnome-shell-extension-clipboard-indicator",
+            "description": "The most popular clipboard manager for GNOME, with over 2M downloads",
+            "url": "https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator"
+          },
+          {
+            "name": "CristianHenzel/ClipIt",
+            "description": "ClipIt clipboard manager for GTK+",
+            "url": "https://github.com/CristianHenzel/ClipIt"
+          },
+          {
+            "name": "naotaka/ClipMenu",
+            "description": "A clipboard manager for Mac OS X",
+            "url": "https://github.com/naotaka/ClipMenu"
+          },
+          {
+            "name": "jimuzhe/tiez-clipboard",
+            "description": "TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows.",
+            "url": "https://github.com/jimuzhe/tiez-clipboard"
+          },
+          {
+            "name": "aviaryan/Clipjump",
+            "description": ":clipboard: Clipboard Manager for Windows, built in AutoHotkey",
+            "url": "https://github.com/aviaryan/Clipjump"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "p0deje/Maccy",
+        "hluk/CopyQ",
+        "Slackadays/Clipboard",
+        "ZiuChen/ClipboardManager",
+        "Tudmotu/gnome-shell-extension-clipboard-indicator"
+      ]
+    },
+    {
+      "chinese": "远程桌面",
+      "english": "remote desktop",
+      "expected": [
+        "rustdesk",
+        "remote",
+        "desktop",
+        "guacamole"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "Cool-Coding/remote-desktop-control",
+            "description": "远程桌面控制(Spring+Netty+Swing)",
+            "url": "https://github.com/Cool-Coding/remote-desktop-control"
+          },
+          {
+            "name": "galaxy-s10/billd-desk",
+            "description": "基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流",
+            "url": "https://github.com/galaxy-s10/billd-desk"
+          },
+          {
+            "name": "algerkong/AlgerMusicPlayer",
+            "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
+            "url": "https://github.com/algerkong/AlgerMusicPlayer"
+          },
+          {
+            "name": "xunki/RemoteDesktopManage",
+            "description": "基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具",
+            "url": "https://github.com/xunki/RemoteDesktopManage"
+          },
+          {
+            "name": "dwj0/Remote-management",
+            "description": "远程桌面、RADMIN、SSH、VNC集中管理器",
+            "url": "https://github.com/dwj0/Remote-management"
+          },
+          {
+            "name": "YiDaoCai/RemoteDesktop",
+            "description": "远程桌面监控",
+            "url": "https://github.com/YiDaoCai/RemoteDesktop"
+          },
+          {
+            "name": "vhqyeo50893/remoteokteto",
+            "description": "Okteto云远程桌面",
+            "url": "https://github.com/vhqyeo50893/remoteokteto"
+          },
+          {
+            "name": "leo-py/ms-rdp-nat-traverse",
+            "description": "微软远程桌面内网穿透助手。",
+            "url": "https://github.com/leo-py/ms-rdp-nat-traverse"
+          },
+          {
+            "name": "galaxy-s10/billd-desk-flutter",
+            "description": "基于Flutter3 + WebRTC搭建的远程桌面控制App",
+            "url": "https://github.com/galaxy-s10/billd-desk-flutter"
+          },
+          {
+            "name": "galaxy-s10/billd-desk-admin",
+            "description": "基于Vue3 + Vite6 + NaiveUI搭建的远程桌面后台",
+            "url": "https://github.com/galaxy-s10/billd-desk-admin"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "FreeRDP/FreeRDP",
+            "description": "FreeRDP is a free remote desktop protocol library and clients",
+            "url": "https://github.com/FreeRDP/FreeRDP"
+          },
+          {
+            "name": "iiordanov/remote-desktop-clients",
+            "description": "VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10",
+            "url": "https://github.com/iiordanov/remote-desktop-clients"
+          },
+          {
+            "name": "jasonpang/RemoteDesktop",
+            "description": "A from-scratch re-implementation of VNC / TeamViewer / Remote Desktop. Working screen transfer, NAT traversal / UDP hole punching, uses a mirror driver.",
+            "url": "https://github.com/jasonpang/RemoteDesktop"
+          },
+          {
+            "name": "xunki/RemoteDesktopManage",
+            "description": "基于 MSTSC 连接 Windows 远程桌面，并对其进行封装实现管理多个远程桌面配置的小工具",
+            "url": "https://github.com/xunki/RemoteDesktopManage"
+          },
+          {
+            "name": "DarkCoderSc/PowerRemoteDesktop",
+            "description": "Remote Desktop entirely coded in PowerShell.",
+            "url": "https://github.com/DarkCoderSc/PowerRemoteDesktop"
+          },
+          {
+            "name": "rustdesk/rustdesk",
+            "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+            "url": "https://github.com/rustdesk/rustdesk"
+          },
+          {
+            "name": "miroslavpejic85/p2p",
+            "description": "🖥️ P2P Remote Desktop - Portable peer-to-peer remote desktop with no installation required.",
+            "url": "https://github.com/miroslavpejic85/p2p"
+          },
+          {
+            "name": "Cool-Coding/remote-desktop-control",
+            "description": "远程桌面控制(Spring+Netty+Swing)",
+            "url": "https://github.com/Cool-Coding/remote-desktop-control"
+          },
+          {
+            "name": "citronneur/rdpy",
+            "description": "Remote Desktop Protocol in Twisted Python",
+            "url": "https://github.com/citronneur/rdpy"
+          },
+          {
+            "name": "dchapyshev/aspia",
+            "description": "Remote desktop and file transfer tool.",
+            "url": "https://github.com/dchapyshev/aspia"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "iiordanov/remote-desktop-clients",
+        "jasonpang/RemoteDesktop",
+        "DarkCoderSc/PowerRemoteDesktop",
+        "rustdesk/rustdesk"
+      ]
+    },
+    {
+      "chinese": "思维导图",
+      "english": "mind map",
+      "expected": [
+        "mind",
+        "markmap"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "wanglin2/mind-map",
+            "description": "SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.",
+            "url": "https://github.com/wanglin2/mind-map"
+          },
+          {
+            "name": "SecWiki/sec-chart",
+            "description": "安全思维导图集合",
+            "url": "https://github.com/SecWiki/sec-chart"
+          },
+          {
+            "name": "phith0n/Mind-Map",
+            "description": "各种安全相关思维导图整理收集",
+            "url": "https://github.com/phith0n/Mind-Map"
+          },
+          {
+            "name": "cystanford/SQL-XMind",
+            "description": "《SQL必知必会》思维导图",
+            "url": "https://github.com/cystanford/SQL-XMind"
+          },
+          {
+            "name": "geekxh/hello-beginner",
+            "description": "github 最全技术类思维导图",
+            "url": "https://github.com/geekxh/hello-beginner"
+          },
+          {
+            "name": "iSafeBlue/Mind-Map",
+            "description": "超详细的渗透测试思维导图",
+            "url": "https://github.com/iSafeBlue/Mind-Map"
+          },
+          {
+            "name": "ProgrammerAnthony/RocketMQC",
+            "description": "RocketMQ添加源码学习笔记和思维导图等",
+            "url": "https://github.com/ProgrammerAnthony/RocketMQC"
+          },
+          {
+            "name": "mondaylab/vue3-api",
+            "description": "整理vue3API相关思维导图~",
+            "url": "https://github.com/mondaylab/vue3-api"
+          },
+          {
+            "name": "owant/ThinkMap",
+            "description": "在 Android 上绘制思维导图控件，让思维更简单。",
+            "url": "https://github.com/owant/ThinkMap"
+          },
+          {
+            "name": "Bywalks/K8s-Mind-Map",
+            "description": "K8S安全攻防思维导图 | Docker安全攻防思维导图",
+            "url": "https://github.com/Bywalks/K8s-Mind-Map"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "wanglin2/mind-map",
+            "description": "SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.",
+            "url": "https://github.com/wanglin2/mind-map"
+          },
+          {
+            "name": "phith0n/Mind-Map",
+            "description": "各种安全相关思维导图整理收集",
+            "url": "https://github.com/phith0n/Mind-Map"
+          },
+          {
+            "name": "jCodeLife/mind-map",
+            "description": "🖼个人思维导图笔记，已整理JS、TS、Vue、React ... 持续更新中，欢迎 PR 和 Start~",
+            "url": "https://github.com/jCodeLife/mind-map"
+          },
+          {
+            "name": "imran-parray/Mind-Maps",
+            "description": "Mind-Maps of Several Things",
+            "url": "https://github.com/imran-parray/Mind-Maps"
+          },
+          {
+            "name": "0voice/learning_mind_map",
+            "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
+            "url": "https://github.com/0voice/learning_mind_map"
+          },
+          {
+            "name": "LjyYano/Thinking_in_Java_MindMapping",
+            "description": "编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录",
+            "url": "https://github.com/LjyYano/Thinking_in_Java_MindMapping"
+          },
+          {
+            "name": "SSShooter/mind-elixir-core",
+            "description": "⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.",
+            "url": "https://github.com/SSShooter/mind-elixir-core"
+          },
+          {
+            "name": "x676f64/secureum-mind_map",
+            "description": "Central Repository for the Epoch 0 coursework and quizzes. Contains all the content, cross-referenced and linked. ",
+            "url": "https://github.com/x676f64/secureum-mind_map"
+          },
+          {
+            "name": "awehook/react-mindmap",
+            "description": "Full featured mind map app which build with react.js. 一个功能完备且有很多创新的思维导图app。",
+            "url": "https://github.com/awehook/react-mindmap"
+          },
+          {
+            "name": "woaielf/MindMap_ZOE",
+            "description": "Data Science & MindMap",
+            "url": "https://github.com/woaielf/MindMap_ZOE"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "jCodeLife/mind-map",
+        "imran-parray/Mind-Maps",
+        "0voice/learning_mind_map",
+        "LjyYano/Thinking_in_Java_MindMapping",
+        "SSShooter/mind-elixir-core",
+        "x676f64/secureum-mind_map",
+        "awehook/react-mindmap",
+        "woaielf/MindMap_ZOE"
+      ]
+    },
+    {
+      "chinese": "电子书阅读器",
+      "english": "ebook reader",
+      "expected": [
+        "foliate",
+        "koreader",
+        "ebook",
+        "reader"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "GGGHub/Reader",
+            "description": "iOS基于CoreText实现的电子书阅读器，支持txt，epub格式",
+            "url": "https://github.com/GGGHub/Reader"
+          },
+          {
+            "name": "lgy582355443/vue-book",
+            "description": "vue电子书阅读器",
+            "url": "https://github.com/lgy582355443/vue-book"
+          },
+          {
+            "name": "huangder/Lumi_Books",
+            "description": "一款简洁易用的 Android 电子书阅读器。",
+            "url": "https://github.com/huangder/Lumi_Books"
+          },
+          {
+            "name": "MrZQxiao/ZQReaderDemo",
+            "description": "ios电子书阅读器（支持Epub、TXT格式电子书阅读及语音阅读功能）",
+            "url": "https://github.com/MrZQxiao/ZQReaderDemo"
+          },
+          {
+            "name": "HeroIsUseless/MyBook",
+            "description": "简约优美的电子书阅读器（支持全平台）",
+            "url": "https://github.com/HeroIsUseless/MyBook"
+          },
+          {
+            "name": "Focfa/Jreader",
+            "description": "一款仿掌阅iReader的电子书阅读器 apk：https://github.com/Focfa/Jreader/blob/master/Jreader.apk",
+            "url": "https://github.com/Focfa/Jreader"
+          },
+          {
+            "name": "miloquinn/origo-x",
+            "description": "Origo X（开元阅读）是一款本地优先、跨平台的开源电子书阅读器，支持 EPUB、TXT 与开放书源协议。",
+            "url": "https://github.com/miloquinn/origo-x"
+          },
+          {
+            "name": "ssnangua/ColorTxt",
+            "description": "「彩读 3.0 书源 × AI+」——一款会给内容上色的本地 TXT 小说阅读器，带给你不一样的阅读体验！（也支持打开常见的电子书格式，如 .epub）。还有章节识别、简繁互转、划线标注、记笔记、词典、翻译、多角色语音朗读、AI 阅读助手、书源找书等功能。支持 macOS、Windows 和 Linux。",
+            "url": "https://github.com/ssnangua/ColorTxt"
+          },
+          {
+            "name": "simplismvip/SRBook",
+            "description": "电子书阅读器，支持epub和txt格式",
+            "url": "https://github.com/simplismvip/SRBook"
+          },
+          {
+            "name": "roxycon-dev/Ciallo-Reader",
+            "description": "Android 小说、漫画与电子书阅读器；支持 TXT、EPUB、CBZ、本地书架、多源搜索、下载与离线阅读。 Android novel, manga & ebook reader.",
+            "url": "https://github.com/roxycon-dev/Ciallo-Reader"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "koodo-reader/koodo-reader",
+            "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
+            "url": "https://github.com/koodo-reader/koodo-reader"
+          },
+          {
+            "name": "BasioMeusPuga/Lector",
+            "description": "Qt based ebook reader",
+            "url": "https://github.com/BasioMeusPuga/Lector"
+          },
+          {
+            "name": "ttu-ttu/ebook-reader",
+            "description": "Online e-book reader that supports Yomichan",
+            "url": "https://github.com/ttu-ttu/ebook-reader"
+          },
+          {
+            "name": "smuyyh/BookReader",
+            "description": ":closed_book:  \"任阅\" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~",
+            "url": "https://github.com/smuyyh/BookReader"
+          },
+          {
+            "name": "babluboy/bookworm",
+            "description": "A simple ebook reader for Elementary OS",
+            "url": "https://github.com/babluboy/bookworm"
+          },
+          {
+            "name": "readest/readest",
+            "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.",
+            "url": "https://github.com/readest/readest"
+          },
+          {
+            "name": "farshed/duofolio",
+            "description": "Ebook reader for linguaphiles 📖",
+            "url": "https://github.com/farshed/duofolio"
+          },
+          {
+            "name": "longluo/EbookReader",
+            "description": "The EbookReader Android App. Support file format like epub, pdf, txt, html, mobi, azw, azw3, html, doc, docx,cbz, cbr.  Support tts.",
+            "url": "https://github.com/longluo/EbookReader"
+          },
+          {
+            "name": "wustho/epy",
+            "description": "CLI Ebook (epub2, epub3, fb2, mobi) Reader",
+            "url": "https://github.com/wustho/epy"
+          },
+          {
+            "name": "koreader/koreader",
+            "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+            "url": "https://github.com/koreader/koreader"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "koodo-reader/koodo-reader",
+        "ttu-ttu/ebook-reader",
+        "smuyyh/BookReader",
+        "longluo/EbookReader",
+        "koreader/koreader"
+      ]
+    },
+    {
+      "chinese": "文字识别",
+      "english": "OCR",
+      "expected": [
+        "tesseract",
+        "paddleocr",
+        "easyocr",
+        "ocr"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "shouzhong/Scanner",
+            "description": "二维码/条码识别、身份证识别、银行卡识别、车牌识别、图片文字识别、黄图识别、驾驶证（驾照）识别",
+            "url": "https://github.com/shouzhong/Scanner"
+          },
+          {
+            "name": "vipstone/faceai",
+            "description": "一款入门级的人脸、视频、文字检测以及识别的项目.",
+            "url": "https://github.com/vipstone/faceai"
+          },
+          {
+            "name": "AnyListen/tools-ocr",
+            "description": "树洞 OCR 文字识别（一款跨平台的 OCR 小工具）",
+            "url": "https://github.com/AnyListen/tools-ocr"
+          },
+          {
+            "name": "MgArcher/Text_select_captcha",
+            "description": "实现文字点选、选字、选择、点触验证码识别，基于pytorch训练",
+            "url": "https://github.com/MgArcher/Text_select_captcha"
+          },
+          {
+            "name": "jinxiwang/ocr_TDR",
+            "description": "好未来Feature Camp:中文手写汉字识别",
+            "url": "https://github.com/jinxiwang/ocr_TDR"
+          },
+          {
+            "name": "996refuse/zheye",
+            "description": "者也 - 知乎 倒立的文字 汉字验证码识别程序",
+            "url": "https://github.com/996refuse/zheye"
+          },
+          {
+            "name": "chenguanyou/CharacterRecognition",
+            "description": "百度文字识别api，Python3，包含了(通用文字识别，通用文字识别（含位置信息版），通用文字识别（高精度版），通用文字识别（高精度含位置版），网络图片文字识别，身份证识别，银行卡识别，驾驶证识别，行驶证识别，营业执照识别，车牌识别，表格文字识别-提交请求，通用票据识别，手写文字识别，增值税发票识别，数字识别，欢迎使用！请使用新版文字识别https://github.com/chenguanyou/BaiduTextApi",
+            "url": "https://github.com/chenguanyou/CharacterRecognition"
+          },
+          {
+            "name": "DayBreak-u/chineseocr_lite",
+            "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",
+            "url": "https://github.com/DayBreak-u/chineseocr_lite"
+          },
+          {
+            "name": "shuoGG1239/Image2Text",
+            "description": "截取图片并识别出图片的文字",
+            "url": "https://github.com/shuoGG1239/Image2Text"
+          },
+          {
+            "name": "jjcheer/ocrcn_tf2",
+            "description": "TensorFlow2.0的中文汉字手写体识别！OCR必备，欢迎star！",
+            "url": "https://github.com/jjcheer/ocrcn_tf2"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "ocrmypdf/OCRmyPDF",
+            "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+            "url": "https://github.com/ocrmypdf/OCRmyPDF"
+          },
+          {
+            "name": "PaddlePaddle/PaddleOCR",
+            "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR"
+          },
+          {
+            "name": "hiroi-sora/Umi-OCR",
+            "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+            "url": "https://github.com/hiroi-sora/Umi-OCR"
+          },
+          {
+            "name": "JaidedAI/EasyOCR",
+            "description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+            "url": "https://github.com/JaidedAI/EasyOCR"
+          },
+          {
+            "name": "baidu/Unlimited-OCR",
+            "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+            "url": "https://github.com/baidu/Unlimited-OCR"
+          },
+          {
+            "name": "chineseocr/chineseocr",
+            "description": "yolo3+ocr",
+            "url": "https://github.com/chineseocr/chineseocr"
+          },
+          {
+            "name": "tesseract-ocr/tesseract",
+            "description": "Tesseract Open Source OCR Engine (main repository)",
+            "url": "https://github.com/tesseract-ocr/tesseract"
+          },
+          {
+            "name": "Ucas-HaoranWei/GOT-OCR2.0",
+            "description": "Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model",
+            "url": "https://github.com/Ucas-HaoranWei/GOT-OCR2.0"
+          },
+          {
+            "name": "deepseek-ai/DeepSeek-OCR",
+            "description": "Contexts Optical Compression",
+            "url": "https://github.com/deepseek-ai/DeepSeek-OCR"
+          },
+          {
+            "name": "studio-dots-ai/dots.ocr",
+            "description": "Multilingual Document Layout Parsing in a Single Vision-Language Model",
+            "url": "https://github.com/studio-dots-ai/dots.ocr"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "ocrmypdf/OCRmyPDF",
+        "PaddlePaddle/PaddleOCR",
+        "hiroi-sora/Umi-OCR",
+        "JaidedAI/EasyOCR",
+        "baidu/Unlimited-OCR",
+        "chineseocr/chineseocr",
+        "tesseract-ocr/tesseract",
+        "Ucas-HaoranWei/GOT-OCR2.0",
+        "deepseek-ai/DeepSeek-OCR",
+        "studio-dots-ai/dots.ocr"
+      ]
+    },
+    {
+      "chinese": "语音识别",
+      "english": "speech recognition",
+      "expected": [
+        "whisper",
+        "vosk",
+        "speech",
+        "funasr"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "xxbb1234021/speech_recognition",
+            "description": "中文语音识别",
+            "url": "https://github.com/xxbb1234021/speech_recognition"
+          },
+          {
+            "name": "nobody132/masr",
+            "description": "中文语音识别; Mandarin Automatic Speech Recognition;",
+            "url": "https://github.com/nobody132/masr"
+          },
+          {
+            "name": "xdcesc/my_ch_speech_recognition",
+            "description": "使用python进行语音识别",
+            "url": "https://github.com/xdcesc/my_ch_speech_recognition"
+          },
+          {
+            "name": "zw76859420/ASR_Theory",
+            "description": "语音识别理论、论文和PPT",
+            "url": "https://github.com/zw76859420/ASR_Theory"
+          },
+          {
+            "name": "nl8590687/ASRT_SpeechRecognition",
+            "description": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+            "url": "https://github.com/nl8590687/ASRT_SpeechRecognition"
+          },
+          {
+            "name": "Gateway11/tensorflow-examples",
+            "description": "【中文语音识别 】【验证码识别】",
+            "url": "https://github.com/Gateway11/tensorflow-examples"
+          },
+          {
+            "name": "Baidu-AIP/speech_realtime_api",
+            "description": "实时语音识别API WebSocket",
+            "url": "https://github.com/Baidu-AIP/speech_realtime_api"
+          },
+          {
+            "name": "gk969/stm32-speech-recognition",
+            "description": "基于STM32的孤立词语音识别",
+            "url": "https://github.com/gk969/stm32-speech-recognition"
+          },
+          {
+            "name": "Renovamen/Speech-Emotion-Recognition",
+            "description": "Speech emotion recognition implemented in Keras (LSTM, CNN, SVM, MLP) | 语音情感识别",
+            "url": "https://github.com/Renovamen/Speech-Emotion-Recognition"
+          },
+          {
+            "name": "yeyupiaoling/PaddlePaddle-DeepSpeech",
+            "description": "基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。支持Windows，Linux下训练和预测，支持Nvidia Jetson开发板预测。",
+            "url": "https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "nl8590687/ASRT_SpeechRecognition",
+            "description": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+            "url": "https://github.com/nl8590687/ASRT_SpeechRecognition"
+          },
+          {
+            "name": "NVIDIA-NeMo/Speech",
+            "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+            "url": "https://github.com/NVIDIA-NeMo/Speech"
+          },
+          {
+            "name": "Uberi/speech_recognition",
+            "description": "Speech recognition module for Python, supporting several engines and APIs, online and offline.",
+            "url": "https://github.com/Uberi/speech_recognition"
+          },
+          {
+            "name": "openai/whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "url": "https://github.com/openai/whisper"
+          },
+          {
+            "name": "zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
+            "description": "Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)",
+            "url": "https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers"
+          },
+          {
+            "name": "pannous/tensorflow-speech-recognition",
+            "description": "🎙Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks",
+            "url": "https://github.com/pannous/tensorflow-speech-recognition"
+          },
+          {
+            "name": "zzw922cn/Automatic_Speech_Recognition",
+            "description": "End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow ",
+            "url": "https://github.com/zzw922cn/Automatic_Speech_Recognition"
+          },
+          {
+            "name": "TalAter/annyang",
+            "description": "💬 Speech recognition for your site",
+            "url": "https://github.com/TalAter/annyang"
+          },
+          {
+            "name": "m-bain/whisperX",
+            "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+            "url": "https://github.com/m-bain/whisperX"
+          },
+          {
+            "name": "SeanNaren/deepspeech.pytorch",
+            "description": "Speech Recognition using DeepSpeech2.",
+            "url": "https://github.com/SeanNaren/deepspeech.pytorch"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "NVIDIA-NeMo/Speech",
+        "Uberi/speech_recognition",
+        "openai/whisper",
+        "zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
+        "pannous/tensorflow-speech-recognition",
+        "zzw922cn/Automatic_Speech_Recognition",
+        "m-bain/whisperX",
+        "SeanNaren/deepspeech.pytorch"
+      ]
+    },
+    {
+      "chinese": "向量数据库",
+      "english": "vector database",
+      "expected": [
+        "milvus",
+        "qdrant",
+        "weaviate",
+        "chroma",
+        "vector"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "1nchaos/adata",
+            "description": "免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口，量化交易数据】【多数据源融合，动态设置代理，保障数据高可用性】",
+            "url": "https://github.com/1nchaos/adata"
+          },
+          {
+            "name": "GanymedeNil/document.ai",
+            "description": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+            "url": "https://github.com/GanymedeNil/document.ai"
+          },
+          {
+            "name": "ConnectAI-E/Feishu-Vector-Knowledge-Management",
+            "description": "🎒 私有知识库机器人，基于向量数据库和openai实现。",
+            "url": "https://github.com/ConnectAI-E/Feishu-Vector-Knowledge-Management"
+          },
+          {
+            "name": "bigcyy/customized-chat",
+            "description": "基于ChatGpt，Java，SpringBoot，Vue，Milvus向量数据库的定制化聊天Web demo",
+            "url": "https://github.com/bigcyy/customized-chat"
+          },
+          {
+            "name": "datawhalechina/easy-vecdb",
+            "description": "📚 从零开始的向量数据库原理与实践教程，在线阅读地址：https://easy-vecdb.datawhale.cc/",
+            "url": "https://github.com/datawhalechina/easy-vecdb"
+          },
+          {
+            "name": "0voice/Awesome-QuantDev-Learn",
+            "description": "本仓库面向所有对量化分析或开发感兴趣的量化交易从业者，提供系统性学习量化开发的技术路线，从数据获取、策略开发、回测系统到实盘部署。",
+            "url": "https://github.com/0voice/Awesome-QuantDev-Learn"
+          },
+          {
+            "name": "coderabbit214/document-ai",
+            "description": "go基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+            "url": "https://github.com/coderabbit214/document-ai"
+          },
+          {
+            "name": "newlxj/Crawling_VectorDB_LLM",
+            "description": "从零开始搭建爬虫+向量数据库+LLM大模型构建企业私有化知识库",
+            "url": "https://github.com/newlxj/Crawling_VectorDB_LLM"
+          },
+          {
+            "name": "zzhtl/biga",
+            "description": "大A股票预测，会加上股票数据模型训练预测以及向量数据库数据存储功能，每天早上8点预测最有可能上涨的10只股票。持续迭代功能，包括股票数据模型训练预测以及向量数据库数据存储功能。",
+            "url": "https://github.com/zzhtl/biga"
+          },
+          {
+            "name": "numbbbbb/api2d-vector-demo",
+            "description": "使用 API2D 向量数据库实现简单的知识库",
+            "url": "https://github.com/numbbbbb/api2d-vector-demo"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "zilliztech/VectorDBBench",
+            "description": "Benchmark for vector databases.",
+            "url": "https://github.com/zilliztech/VectorDBBench"
+          },
+          {
+            "name": "milvus-io/milvus",
+            "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+            "url": "https://github.com/milvus-io/milvus"
+          },
+          {
+            "name": "alibaba/zvec",
+            "description": "A lightweight, lightning-fast, in-process vector database",
+            "url": "https://github.com/alibaba/zvec"
+          },
+          {
+            "name": "Mintplex-Labs/vector-admin",
+            "description": "The universal tool suite for vector database management. Manage Pinecone, Chroma, Qdrant, Weaviate and more vector databases with ease.",
+            "url": "https://github.com/Mintplex-Labs/vector-admin"
+          },
+          {
+            "name": "milvus-io/pymilvus",
+            "description": "Python SDK for Milvus Vector Database",
+            "url": "https://github.com/milvus-io/pymilvus"
+          },
+          {
+            "name": "weaviate/weaviate",
+            "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+            "url": "https://github.com/weaviate/weaviate"
+          },
+          {
+            "name": "alibaba/AliSQL",
+            "description": "AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.",
+            "url": "https://github.com/alibaba/AliSQL"
+          },
+          {
+            "name": "qdrant/qdrant",
+            "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+            "url": "https://github.com/qdrant/qdrant"
+          },
+          {
+            "name": "objectbox/objectbox-java",
+            "description": "Database for Android and JVM - first and fast, lightweight on-device vector database",
+            "url": "https://github.com/objectbox/objectbox-java"
+          },
+          {
+            "name": "dblalock/bolt",
+            "description": "10x faster matrix and vector operations",
+            "url": "https://github.com/dblalock/bolt"
+          }
+        ],
+        "retried": true
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "zilliztech/VectorDBBench",
+        "milvus-io/milvus",
+        "Mintplex-Labs/vector-admin",
+        "milvus-io/pymilvus",
+        "weaviate/weaviate",
+        "qdrant/qdrant"
+      ]
+    },
+    {
+      "chinese": "浏览器自动化",
+      "english": "browser automation",
+      "expected": [
+        "playwright",
+        "puppeteer",
+        "selenium",
+        "browser"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "Specia1z/AWS-BuildID-Auto-For-Ext",
+            "description": "⚡ 一键自动化注册 AWS Builder ID 的浏览器扩展",
+            "url": "https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext"
+          },
+          {
+            "name": "musiclover789/luna",
+            "description": "Luna-指纹浏览器|爬虫|防反爬虫框架|浏览器指纹|自动化浏览器|防识别|反识别|爬虫框架|自动化测试框架|anti fingerprint browser|指纹浏览器|隐私浏览器|浏览器检测|浏览器识别|用户代理信息|浏览器指纹/Browser detection",
+            "url": "https://github.com/musiclover789/luna"
+          },
+          {
+            "name": "NaiboWang/EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider"
+          },
+          {
+            "name": "wxhzhwxhzh/DrissionPageMCP",
+            "description": "基于DrissionPage和FastMCP的浏览器自动化MCP服务器，提供丰富的浏览器操作API供AI调用",
+            "url": "https://github.com/wxhzhwxhzh/DrissionPageMCP"
+          },
+          {
+            "name": "7836246/aws-builder-id",
+            "description": "自动化注册 AWS Builder ID 账号的工具，支持多地区环境模拟、浏览器指纹随机化和代理集成。",
+            "url": "https://github.com/7836246/aws-builder-id"
+          },
+          {
+            "name": "ShawnZhang2015/GodGuide",
+            "description": "Cocos Creator 新手引导框架，支持浏览器自动引导，流程录制与回放，可实现自动化测试！",
+            "url": "https://github.com/ShawnZhang2015/GodGuide"
+          },
+          {
+            "name": "zhaotoday/fingerprint-browser",
+            "description": "指纹浏览器（防关联浏览器 / 反检测浏览器 / Antidetect Browser）与住宅代理 IP 选型指南及开源资源汇总：整理 27 款主流指纹浏览器与 28 家代理 IP 的套餐价格，收录 Chromium 指纹定制、Camoufox、Patchright、反检测自动化与指纹检测工具。",
+            "url": "https://github.com/zhaotoday/fingerprint-browser"
+          },
+          {
+            "name": "Jasonliu-0/Newapi-checkin",
+            "description": "NewAPI 自动签到系统 - 支持多账号、多站点、GitHub Actions 自动化，免服务器部署，免挂浏览器脚本，新增支持过cf盾",
+            "url": "https://github.com/Jasonliu-0/Newapi-checkin"
+          },
+          {
+            "name": "yjj5855/chrome-extensions-auto-script",
+            "description": "chrome浏览器的自动化脚本插件",
+            "url": "https://github.com/yjj5855/chrome-extensions-auto-script"
+          },
+          {
+            "name": "eze-is/web-access",
+            "description": "给你的本机 Agent（如 Claude Code、Grok Bot 等）装上完整联网能力的 Skill：三层通道调度 + 浏览器 CDP + 并行分治，自动积累站点经验，不断优化联网效率",
+            "url": "https://github.com/eze-is/web-access"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "lightpanda-io/browser",
+            "description": "Lightpanda: the headless browser designed for AI and automation",
+            "url": "https://github.com/lightpanda-io/browser"
+          },
+          {
+            "name": "vercel-labs/agent-browser",
+            "description": "Browser automation CLI for AI agents",
+            "url": "https://github.com/vercel-labs/agent-browser"
+          },
+          {
+            "name": "SeleniumHQ/selenium",
+            "description": "A browser automation framework and ecosystem.",
+            "url": "https://github.com/SeleniumHQ/selenium"
+          },
+          {
+            "name": "ariya/phantomjs",
+            "description": "Scriptable Headless Browser",
+            "url": "https://github.com/ariya/phantomjs"
+          },
+          {
+            "name": "Tencent/BrowserSkill",
+            "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+            "url": "https://github.com/Tencent/BrowserSkill"
+          },
+          {
+            "name": "browseros-ai/BrowserOS",
+            "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+            "url": "https://github.com/browseros-ai/BrowserOS"
+          },
+          {
+            "name": "webdriverio/webdriverio",
+            "description": "Next-gen browser and mobile automation test framework for Node.js",
+            "url": "https://github.com/webdriverio/webdriverio"
+          },
+          {
+            "name": "ServiceNow/BrowserGym",
+            "description": "BrowserGym, a Gym environment for web task automation",
+            "url": "https://github.com/ServiceNow/BrowserGym"
+          },
+          {
+            "name": "AutomaApp/automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "url": "https://github.com/AutomaApp/automa"
+          },
+          {
+            "name": "hyperbrowserai/HyperAgent",
+            "description": "AI Browser Automation",
+            "url": "https://github.com/hyperbrowserai/HyperAgent"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "lightpanda-io/browser",
+        "vercel-labs/agent-browser",
+        "SeleniumHQ/selenium",
+        "Tencent/BrowserSkill",
+        "browseros-ai/BrowserOS",
+        "ServiceNow/BrowserGym",
+        "hyperbrowserai/HyperAgent"
+      ]
+    },
+    {
+      "chinese": "终端模拟器",
+      "english": "terminal emulator",
+      "expected": [
+        "alacritty",
+        "kitty",
+        "wezterm",
+        "terminal",
+        "termux"
+      ],
+      "original": {
+        "items": [
+          {
+            "name": "Aechoterm/Aechoterm",
+            "description": "跨平台ssh终端模拟客户端、sftp文件管理器",
+            "url": "https://github.com/Aechoterm/Aechoterm"
+          },
+          {
+            "name": "yedajiang44/GpsTerminalEmulator",
+            "description": "部标jtt808终端模拟器",
+            "url": "https://github.com/yedajiang44/GpsTerminalEmulator"
+          },
+          {
+            "name": "xuliang/GT808Simulator",
+            "description": "部标808终端模拟器",
+            "url": "https://github.com/xuliang/GT808Simulator"
+          },
+          {
+            "name": "neokidd/FloatingTerminalEmulator-Android",
+            "description": "全功能终端模拟器，可切换悬浮窗",
+            "url": "https://github.com/neokidd/FloatingTerminalEmulator-Android"
+          },
+          {
+            "name": "geogerli/LoRaMoteMock",
+            "description": "开源 LoRaWAN Server终端模拟器",
+            "url": "https://github.com/geogerli/LoRaMoteMock"
+          },
+          {
+            "name": "AndroidIDE-CN/AIDE-Termux",
+            "description": "AIDE+的专属Termux终端模拟器",
+            "url": "https://github.com/AndroidIDE-CN/AIDE-Termux"
+          },
+          {
+            "name": "victor20010/AIDE-Termux",
+            "description": "AIDE+的专属Termux终端模拟器",
+            "url": "https://github.com/victor20010/AIDE-Termux"
+          },
+          {
+            "name": "haiyyyyh/EzTerm",
+            "description": "简洁高性能的C++终端界面库/TUI库, 适配现代终端模拟器, 极轻量, 使用上类似ncurses",
+            "url": "https://github.com/haiyyyyh/EzTerm"
+          },
+          {
+            "name": "Termare/termare_view",
+            "description": "支持全平台的终端模拟器，使用 Flutter 开发，不依赖平台代码。",
+            "url": "https://github.com/Termare/termare_view"
+          },
+          {
+            "name": "yaocccc/tabbed",
+            "description": "用于和终端模拟器配合使用 多tab功能",
+            "url": "https://github.com/yaocccc/tabbed"
+          }
+        ]
+      },
+      "expanded": {
+        "items": [
+          {
+            "name": "alacritty/alacritty",
+            "description": "A cross-platform, OpenGL terminal emulator.",
+            "url": "https://github.com/alacritty/alacritty"
+          },
+          {
+            "name": "jackpal/Android-Terminal-Emulator",
+            "description": "A VT-100 terminal emulator for the Android OS",
+            "url": "https://github.com/jackpal/Android-Terminal-Emulator"
+          },
+          {
+            "name": "felixse/FluentTerminal",
+            "description": "A Terminal Emulator based on UWP and web technologies.",
+            "url": "https://github.com/felixse/FluentTerminal"
+          },
+          {
+            "name": "termux/termux-app",
+            "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+            "url": "https://github.com/termux/termux-app"
+          },
+          {
+            "name": "railsware/upterm",
+            "description": "A terminal emulator for the 21st century.",
+            "url": "https://github.com/railsware/upterm"
+          },
+          {
+            "name": "jcubic/jquery.terminal",
+            "description": "jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands",
+            "url": "https://github.com/jcubic/jquery.terminal"
+          },
+          {
+            "name": "GitSquared/edex-ui",
+            "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+            "url": "https://github.com/GitSquared/edex-ui"
+          },
+          {
+            "name": "cdleon/awesome-terminals",
+            "description": "Terminal Emulators",
+            "url": "https://github.com/cdleon/awesome-terminals"
+          },
+          {
+            "name": "elementary/terminal",
+            "description": "Terminal emulator designed for elementary OS",
+            "url": "https://github.com/elementary/terminal"
+          },
+          {
+            "name": "Swordfish90/cool-retro-term",
+            "description": "A good looking terminal emulator which mimics the old cathode display...",
+            "url": "https://github.com/Swordfish90/cool-retro-term"
+          }
+        ]
+      },
+      "keywordCandidateMatch": true,
+      "newCandidates": [
+        "alacritty/alacritty",
+        "jackpal/Android-Terminal-Emulator",
+        "felixse/FluentTerminal",
+        "termux/termux-app",
+        "jcubic/jquery.terminal",
+        "cdleon/awesome-terminals",
+        "elementary/terminal"
+      ]
+    }
+  ]
+}

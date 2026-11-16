@@ -1,0 +1,20 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {dictionary,parseQuery,validateEnglish,endpoint,reposFrom,cached,Generation,SingleFlight,fetchJson} from '../src/core.ts';
+test('词库至少 50 组，完整词匹配',()=>{assert.ok(Object.keys(dictionary).length>=50);assert.equal(dictionary['密码管理器'],'password manager');assert.equal(dictionary['好用的密码管理器'],undefined);});
+test('保留全部支持的过滤器',()=>{assert.deepEqual(parseQuery('本地知识库 language:Python stars:>10 fork:false archived:false topic:rag'),{text:'本地知识库',filters:['language:Python','stars:>10','fork:false','archived:false','topic:rag']});});
+test('拒绝未知语法和复杂表达式',()=>{for(const q of ['知识库 org:test','知识库 repo:x/y','知识库 OR 笔记','"知识库"','知识库 (笔记)','知识库 -topic:test'])assert.throws(()=>parseQuery(q));});
+test('模型输出验证',()=>{for(const s of ['',null,'这是关键词','one\ntwo','repo:owner/repo','{"query":"tool"}','a OR b'])assert.throws(()=>validateEnglish(s));assert.equal(validateEnglish(' local RAG '),'local RAG');});
+test('接口地址不接受凭证或非 HTTPS',()=>{assert.equal(endpoint('https://example.com/v1/').href,'https://example.com/v1/chat/completions');for(const s of ['http://example.com','https://user:pass@example.com','https://example.com?key=secret'])assert.throws(()=>endpoint(s));});
+test('缓存失效边界',()=>{assert.equal(cached({expires:101,value:'ok'},100),'ok');assert.equal(cached({expires:100,value:'old'},100),undefined);});
+test('仓库去重并阻止非 GitHub 链接',()=>{const r={id:1,full_name:'a/b',html_url:'https://github.com/a/b'};assert.equal(reposFrom({items:[r,r,{...r,id:2,html_url:'javascript:alert(1)'}]}).length,1);assert.throws(()=>reposFrom({}));});
+test('旧查询结果丢弃',()=>{const g=new Generation();const old=g.next();const newer=g.next();assert.equal(g.current(old),false);assert.equal(g.current(newer),true);});
+test('重复请求合并，失败不滞留',async()=>{const f=new SingleFlight();let calls=0;const fn=async()=>{calls++;return 5;};assert.deepEqual(await Promise.all([f.run('x',fn),f.run('x',fn)]),[5,5]);assert.equal(calls,1);await assert.rejects(f.run('y',async()=>{throw Error('fail');}));assert.equal(await f.run('y',fn),5);});
+test('网络、超时、认证、限流与 JSON 错误',async()=>{const original=globalThis.fetch;try{
+ globalThis.fetch=async()=>{throw new DOMException('timeout','TimeoutError');};await assert.rejects(fetchJson('https://example.com'),/超时/);
+ globalThis.fetch=async()=>{throw Error('network');};await assert.rejects(fetchJson('https://example.com'),/网络请求失败/);
+ globalThis.fetch=async()=>new Response('',{status:401});await assert.rejects(fetchJson('https://example.com'),/认证/);
+ globalThis.fetch=async()=>new Response('',{status:403,headers:{'x-ratelimit-remaining':'0','x-ratelimit-reset':String(Math.ceil(Date.now()/1000)+60)}});await assert.rejects(fetchJson('https://example.com'),/可在/);
+ globalThis.fetch=async()=>new Response('',{status:429,headers:{'retry-after':'30'}});await assert.rejects(fetchJson('https://example.com'),/限额/);
+ globalThis.fetch=async()=>new Response('invalid');await assert.rejects(fetchJson('https://example.com'),/JSON/);
+ }finally{globalThis.fetch=original;}});

@@ -1,0 +1,37 @@
+[
+  {
+    "browser": "chrome",
+    "extensionLoaded": false,
+    "mode": "content-script injection with mock messaging",
+    "result": "passed",
+    "scenarios": [
+      "results preserve original",
+      "manual English search",
+      "light/dark screenshot",
+      "SPA English removal",
+      "history back",
+      "missing key",
+      "unsupported scope",
+      "stale navigation"
+    ]
+  },
+  {
+    "browser": "edge",
+    "extensionLoaded": true,
+    "mode": "real extension with mock HTTP",
+    "result": "passed",
+    "scenarios": [
+      "results preserve original",
+      "manual English search",
+      "light/dark screenshot",
+      "SPA English removal",
+      "history back",
+      "missing key",
+      "unsupported scope",
+      "stale navigation",
+      "options page",
+      "wrong API key",
+      "clear secrets"
+    ]
+  }
+]
